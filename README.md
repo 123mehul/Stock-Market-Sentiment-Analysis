@@ -10,7 +10,7 @@ A Python program that scrapes financial news headlines, analyzes their sentiment
 - 🔗 Calculates correlation between sentiment and price movements
 - 📊 Provides clear, formatted output with analysis results
 
-```
+
 
 ## Usage
 
