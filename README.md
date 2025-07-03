@@ -18,4 +18,8 @@ A Python-based project that analyzes the sentiment of news headlines for a given
 - 📊 Sentiment KPI Dashboard
 - 📉 Sentiment vs Return Correlation (with R² metrics)
 
-  ✅ Sample Output
+## ✅ Sample Output
+
+![Dashboard Screenshot](pic1.png)
+![Dashboard Screenshot](pic2.png)
+
