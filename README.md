@@ -23,11 +23,9 @@ A Python-based project that analyzes the sentiment of news headlines for a given
 ![Dashboard Screenshot](pic1.png)
 ![Dashboard Screenshot](pic2.png)
 
-📝 Notes
-If web scraping fails, the script uses fallback headlines for demo
+## 📝 Notes
 
-Requires an internet connection for scraping and yfinance
-
-Sentiment analysis is basic but practical
-
-Can be extended with advanced models (e.g., BERT, VADER, GPT)
+- If web scraping fails, the script uses fallback headlines for demo
+- Requires an internet connection for scraping and yfinance
+- Sentiment analysis is basic but practical
+- Can be extended with advanced models (e.g., BERT, VADER, GPT)
